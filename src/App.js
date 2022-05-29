@@ -1,7 +1,8 @@
 // import Home from "./ex2/home";
 // import Home from "./ex1/home";
 // import Props from "./Props/props";
-import GlassShop from "./ex5/GlassShop";
+// import GlassShop from "./ex5/GlassShop";
+import ShoesStore  from "./ShoesStore/ShoeStore";
 function App() {
   return (
     <div className="App">
@@ -20,7 +21,9 @@ function App() {
       <Footer /> */}
       {/* <Home /> */}
       {/* <Props /> */}
-      <GlassShop />
+      {/* <GlassShop /> */}
+      {/* <demoRedux /> */}
+      <ShoesStore />
 
     </div>
   );
