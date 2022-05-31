@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class ProductDetail extends Component {
     render() {
-        const { product } = this.props;
+        const {product} = this.props;
         
         if(!product) return;
 

@@ -2,7 +2,7 @@
 // import Home from "./ex1/home";
 // import Props from "./Props/props";
 // import GlassShop from "./ex5/GlassShop";
-import ShoesStore  from "./ShoesStore/ShoeStore";
+import ShoesStore  from "./ex5/ShoesStore/ShoeStore";
 function App() {
   return (
     <div className="App">
